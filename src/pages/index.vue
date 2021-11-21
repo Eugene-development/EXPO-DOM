@@ -3,8 +3,8 @@
     <div class="relative overflow-hidden ">
       <div class="relative pt-24 pb-16 sm:pb-24">
         <main class="mt-16 mx-auto max-w-7xl px-4 sm:mt-24">
-          <div class="text-center font-serif">
-            <h1 class="my-12 text-6xl tracking-tight  text-gray-900 xs:text-4xl md:text-7xl">EXPO-DOM.COM</h1>
+          <div class="text-center font-mono">
+            <h1 class="my-12 text-6xl tracking-tight  text-gray-900 xs:text-4xl md:text-7xl">8 (495) 147-55-50</h1>
             <h1 class="text-4xl tracking-tight text-gray-900 sm:text-5xl md:text-7xl">
               <span class="block xl:inline">Предварительная регистрация</span><br>
               <span class="block text-indigo-600 xl:inline">с 1 января 2022</span>
